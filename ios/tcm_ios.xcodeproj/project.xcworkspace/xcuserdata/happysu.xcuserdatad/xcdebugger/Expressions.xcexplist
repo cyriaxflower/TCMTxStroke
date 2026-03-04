@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.doRunOnce():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "home_path">
+            </PersistentString>
+            <PersistentString
+               value = "ann_file">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "show_str:Ann.c">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.doGetOthers():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "filename">
+            </PersistentString>
+            <PersistentString
+               value = "ann_file">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in ViewController.doRunOnce():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.big5ToUTF8(input:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.big5ToUTF8(_:):ViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
